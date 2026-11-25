@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nombre": "mouse inalambrico",
+        "categoria": "periféricos",
+        "precio": 299.00,
+        "descripcion": "mouse inalambrico de alta precision",
+        "stock": 25
+    },
+    {
+        "id": 2,
+        "nombre": "teclado mecanico",
+        "categoria": "periféricos",
+        "precio": 899.00,
+        "descripcion": "teclado mecanico con retroiluminacion",
+        "stock": 12
+    }
+]
